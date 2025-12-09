@@ -1,0 +1,5 @@
+# Alpine Speedtest
+
+setup alexjustesen / speedtest-tracker on an alpine lxc.
+
+uses steps from linuxserver / docker-speedtest-tracker
